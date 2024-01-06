@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Nessus Vulnerability Management](https://github.com/bladen08/Nessus-Essentials-Vulnerability-Management)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
